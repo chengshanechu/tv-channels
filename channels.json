@@ -1,0 +1,12 @@
+[
+  {
+    "number": 1,
+    "name": "頻道一",
+    "videoId": "YOUR_VIDEO_ID"
+  },
+  {
+    "number": 2,
+    "name": "頻道二",
+    "videoId": "YOUR_VIDEO_ID"
+  }
+]
