@@ -11,8 +11,13 @@
  {"number":30,"name":"蠟筆小新","videoId":"TE5Msg_hAgY","cat":"兒少"},
  {"number":31,"name":"中華一番","videoId":"qTpYpgIMnA8","cat":"兒少"},
  {"number":32,"name":"東森綜合","videoId":"cimbpAZUjzw","cat":"綜合"},
- {"number":39,"name":"公視","videoId":"C6gYqSHLRw4","cat":"綜合"},
- {"number":40,"name":"台視新聞","videoId":"9iRAqBMakXY","cat":"新聞"},
+ {"number":35,"name":"公視","videoId":"C6gYqSHLRw4","cat":"綜合"},
+ {"number":36,"name":"NASA","videoId":"tj4knR4r1UU","cat":"綜合"},
+ {"number":37,"name":"DW NEWS","videoId":"LuKwFajn37U","cat":"新聞"},
+ {"number":38,"name":"SKY NEWS","videoId":"umLWFz4izTM","cat":"新聞"},
+ {"number":39,"name":"CNA NEWS","videoId":"-PWMxjBgr0k","cat":"新聞"},
+ {"number":39,"name":"GB NEWS","videoId":"EDbWwVR7i9Q","cat":"新聞"},
+ {"number":40,"name":"CNN NEWS","videoId":"GotlA1KKWoo","cat":"新聞"},
  {"number":41,"name":"中視新聞","videoId":"TCnaIE_SAtM","cat":"新聞"},
  {"number":42,"name":"華視新聞","videoId":"wM0g8EoUZ_E","cat":"新聞"},
  {"number":43,"name":"民視新聞","videoId":"ylYJSBUgaMA","cat":"新聞"}, 
@@ -63,4 +68,5 @@
  {"number":302,"name":"正德電視","videoId":"wIicpuUDgv4","cat":"宗教"},
  {"number":303,"name":"淨空老法師","videoId":"LuomVsFAFpg","cat":"宗教"},
  {"number":304,"name":"生命電視","videoId":"dVkQNH3IfME","cat":"宗教"}
+]
 ]
